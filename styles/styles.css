@@ -46,7 +46,6 @@ section {
   padding-bottom: 94px;
 }
 .container {
-  width: 1200px;
   padding-left: 15px;
   padding-right: 15px;
   margin-left: auto;
@@ -191,4 +190,14 @@ section {
   font-weight: 400;
   line-height: 1.16;
   margin-bottom: 16px;
+}
+.functional__names {
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: var(--secondary-text-color);
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.16;
+
+  margin-bottom: 10px;
 }
